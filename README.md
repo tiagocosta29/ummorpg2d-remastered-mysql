@@ -1,10 +1,9 @@
-# This is a fork from the original ummorpg remastered mysql plugin to support the UMMORPG2D package
+# This is a fork from the original ummorpg remastered mysql plugin for UMMORPG2D updated to support UMMORPG3D
 OG REP Link https://github.com/lukehoulihan/ummorpg-remastered-mysql
 
-# UMMORPG2D-remasterd-mysql drop in replacement script
-This project is a drop in replacement for the default `Database.cs` script in UMMORPG2D Remastered.
+# UMMORPG3D-remasterd-mysql drop in replacement script
+This project is a drop in replacement for the default `Database.cs` script in UMMORPG3D Remastered.
 Please be advised -
-* This script was created for UMMORPG2D Remastered 
 * This is a free add-on.  I will not troublshoot issues for you.  If you see a bug, log the issue and I'll fix it if I have time.  Better yet, fix it yourself and open a pull request.
 * No optimizations or improvements where made to this script - this is a 1:1 conversion of existing logic.  The default database design is so poor that there isn't much to be done without a total re-write.  (No offense intended to Vis2k, it's good enough to get a beginner started).
 
